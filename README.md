@@ -1,10 +1,10 @@
-# kor2vec2subject
+# word2vec를 이용하여 문장의 주제 예측하기
 
-## kor2vec
+## word2vec (kor2vec)
 
 [kor2vec](https://github.com/dongjun-Lee/kor2vec)를 참고하였습니다.
 
-## 2subject
+## 문장의 주제 예측하기
 
 ### Concept
 
